@@ -31,4 +31,4 @@ Aqui é onde eu coloco meus repositórios para estudo e projetos que eu venha a 
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br>
 
-Sou apaixonado por tecnologia e estou empenhando a aprender sobre elas para poder crescer profissionalmente no ramo além de poder contribuir para a comunidade IoT! 🫡
+Sou apaixonado por tecnologia e estou empenhando a aprender sobre elas para poder crescer profissionalmente no ramo além de poder contribuir para a comunidade IoT!!! 🫡
