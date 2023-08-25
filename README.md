@@ -1,5 +1,5 @@
 ### Hello!! ✌🏼
-### Bem-vindo(a) ao meu perfil do GitHub  ![Math's Follow](https://img.shields.io/github/followers/{omathsantos}.svg?style=social&label=Follow&maxAge=2592000)
+### Bem-vindo(a) ao meu perfil do GitHub!!
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusraimundosantos@gmail.com)
