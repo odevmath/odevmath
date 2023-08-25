@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omathsantos&layout=compact)
 
 
-## Ainda não domino muitas tecnologias mas estas são as que eu uso e/ou estou estudando sobre:
+## Ainda não domino muitas tecnologias, mas a seguir estão algumas das quais eu uso e/ou estou estudando sobre:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
