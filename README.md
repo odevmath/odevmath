@@ -1,6 +1,6 @@
 ### Hello!! ✌🏼
 ### Bem-vindo(a) ao meu perfil do GitHub!!
-
+Aqui é onde eu coloco meus repositórios para estudo e projetos que eu venha a desenvolver ou participar...
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusraimundosantos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omathsantos/)
