@@ -9,9 +9,9 @@ Aqui é onde eu coloco meus repositórios para estudo e projetos que eu venha a 
 )](https://twitter.com/themathsantos)
 
 
-![Math's GitHub stats](https://github-readme-stats.vercel.app/api?username=omathsantos&theme=outrun&show_icons=true)
+![Math's GitHub stats](https://github-readme-stats.vercel.app/api?username=odevmath&theme=outrun&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omathsantos&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odevmath&layout=compact)
 
 
 ## Estou explorando e me aprimorando em diveras tecnologias e compartilho abaixo algumas delas:
