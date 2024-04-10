@@ -1,6 +1,6 @@
 <img widght=100% bottom=50px src='https://github.com/odevmath/odevmath/assets/88942151/25f13b53-c217-4704-bd0f-7de9c984bb9e'/>
 
-Here you will find my projects, college work and things I'm "trying" or something like that...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=ACACAC&random=false&width=435&lines=WELCOME%3A;My+name+is+Matheus...;I'm+27+years+and+I'm+from+Brazil;Taking+a+look+at+what+I'm+doing+here)](https://git.io/typing-svg)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@odevmath)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusraimundosantos@gmail.com)
