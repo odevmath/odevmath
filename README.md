@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+<img widght=100% bottom=50px src='https://github.com/odevmath/odevmath/assets/88942151/45e314a7-c08b-45fb-8bcc-a58d0c09a0b1'
 
 Aqui é onde eu coloco meus repositórios para estudo e projetos que eu venha a desenvolver ou participar...
 
