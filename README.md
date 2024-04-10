@@ -1,7 +1,6 @@
 <img widght=100% bottom=50px src='https://github.com/odevmath/odevmath/assets/88942151/25f13b53-c217-4704-bd0f-7de9c984bb9e'/>
 
-Aqui é onde eu coloco meus repositórios para estudo e projetos que eu venha a desenvolver ou participar...
-
+Here you will find my projects, college work and things I'm "trying" or something like that...
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@odevmath)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusraimundosantos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omathsantos/)
