@@ -1,4 +1,4 @@
-<img widght=100% bottom=50px src='https://github.com/odevmath/odevmath/assets/88942151/45e314a7-c08b-45fb-8bcc-a58d0c09a0b1'/>
+<img widght=100% bottom=50px src='https://github.com/odevmath/odevmath/assets/88942151/25f13b53-c217-4704-bd0f-7de9c984bb9e'/>
 
 Aqui é onde eu coloco meus repositórios para estudo e projetos que eu venha a desenvolver ou participar...
 
