@@ -1,35 +1,93 @@
-<img widght=100% bottom=50px src='https://github.com/odevmath/odevmath/assets/88942151/25f13b53-c217-4704-bd0f-7de9c984bb9e'/>
+<h1 align="left">📚 Sobre mim</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=ACACAC&random=false&width=435&lines=WELCOME%3A;My+name+is+Matheus...;I'm+27+years+and+I'm+from+Brazil;Taking+a+look+at+what+I'm+doing+here)](https://git.io/typing-svg)
+###
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@odevmath)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusraimundosantos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omathsantos/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_imath/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://twitter.com/themathsantos)
+<p>Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (Unisinos, 2º semestre) com passagem por 
+  <strong>Ciência da Computação</strong> (UniRitter, 3 semestres). Tenho experiência em 
+  <strong>suporte técnico</strong> e <strong>reparo de dispositivos Apple</strong>, além de uma 
+  bolsa integral pelo Prouni.</p>
 
+  <p>Atualmente, busco oportunidades na área de desenvolvimento de software e constantemente aprimoro minhas habilidades com 
+  <strong>cursos externos</strong> e <strong>soft skills</strong>, como comunicação efetiva, resolução de conflitos, 
+  trabalho em equipe e adaptabilidade.</p>
+  
+###
 
-![Math's GitHub stats](https://github-readme-stats.vercel.app/api?username=odevmath&theme=outrun&show_icons=true)
+<h1 align="left">Techs</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odevmath&layout=compact)
+###
 
-
-## Estou explorando e me aprimorando em diveras tecnologias e compartilho abaixo algumas delas:
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
-<div style="display: inline_block"><br/>
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-    <img align="center" alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-    <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div><br>
 
-Sou apaixonado por tecnologia e estou empenhando a aprender sobre elas para poder crescer profissionalmente no ramo, além de poder contribuir para a comunidade IoT!!! 🫡
+###
+
+<h1 align="left">Stats</h1>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=odevmath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odevmath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=odevmath&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=odevmath&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">📫 Redes e Contatos:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/odevmath/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/o_devmath" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/_imath/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:matheusraimundosantos@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/+5551992639881" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://imgflip.com/gif/98ecbe.gif"/>
+
+###
+
+<img align="right" src="https://profile-counter.glitch.me/odevmath/count.svg?"  />
+
+###
