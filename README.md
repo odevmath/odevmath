@@ -1,8 +1,10 @@
 <h2 align="left">📚 Sobre mim</h2>
 
+
 ###
 
 <p align="left">Estudante de Análise e Desenvolvimento de Sistemas (Unisinos, 2º semestre) com passagem por Ciência da Computação (UniRitter, 3 semestres). Tenho experiência em suporte técnico e reparo de dispositivos Apple, além de uma bolsa integral pelo Prouni.<br><br>Atualmente, busco oportunidades na área de desenvolvimento de software e constantemente aprimoro minhas habilidades com cursos externos e soft skills, como comunicação efetiva, resolução de conflitos, trabalho em equipe e adaptabilidade.</p>
+
 
 ###
 
@@ -44,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=odevmath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odevmath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=odevmath&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
