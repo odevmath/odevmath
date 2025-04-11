@@ -3,7 +3,13 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas (Unisinos, 2º semestre) com passagem por Ciência da Computação (UniRitter, 3 semestres). Tenho experiência em suporte técnico e reparo de dispositivos Apple, além de uma bolsa integral pelo Prouni.<br><br>Atualmente, busco oportunidades na área de desenvolvimento de software e constantemente aprimoro minhas habilidades com cursos externos e soft skills, como comunicação efetiva, resolução de conflitos, trabalho em equipe e adaptabilidade.</p>
+<p align="left">
+Desenvolvedor fullstack freelancer, com atuação em projetos autorais e prestação de serviços voltados ao desenvolvimento de sites e automações sob medida. Entre os projetos mais recentes, destacam-se a landing page da Starbucks e um sistema de automação para cadastro de produtos — ambos desenvolvidos com foco na experiência do usuário e na otimização de rotinas operacionais.
+
+Atualmente, cursa o 3º período de Análise e Desenvolvimento de Sistemas pela Unisinos e atua na iPlace com suporte técnico e atendimento especializado. A vivência no varejo de tecnologia contribui para o aprimoramento de habilidades interpessoais, escuta ativa e pensamento analítico — competências aplicadas diretamente na abordagem prática adotada no desenvolvimento de soluções digitais.
+
+Fora do ambiente técnico, os interesses pessoais incluem o futebol (atividade iniciada recentemente), a música soul e o funk francês. Com perfil autodidata, comunicativo e resiliente, mantém um forte senso de curiosidade e busca constante por aprendizado — qualidades que tornam o trabalho desenvolvido mais versátil, eficiente e alinhado às necessidades de cada projeto.
+</p>
 
 
 ###
